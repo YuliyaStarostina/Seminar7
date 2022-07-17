@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\bin\Debug\net6.0\Zadacha46.exe
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\bin\Debug\net6.0\Zadacha46.deps.json
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\bin\Debug\net6.0\Zadacha46.runtimeconfig.json
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\bin\Debug\net6.0\Zadacha46.dll
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\bin\Debug\net6.0\Zadacha46.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.dll
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\refint\Zadacha46.dll
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\Zadacha46.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Zadacha46\obj\Debug\net6.0\ref\Zadacha46.dll
