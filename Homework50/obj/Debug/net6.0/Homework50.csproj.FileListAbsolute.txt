@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\bin\Debug\net6.0\Homework50.exe
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\bin\Debug\net6.0\Homework50.deps.json
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\bin\Debug\net6.0\Homework50.runtimeconfig.json
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\bin\Debug\net6.0\Homework50.dll
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\bin\Debug\net6.0\Homework50.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.dll
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\refint\Homework50.dll
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\Homework50.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Обучение\Seminar7\Homework50\obj\Debug\net6.0\ref\Homework50.dll
